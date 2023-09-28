@@ -7,6 +7,7 @@ public class GitHubCodepush {
 		
 		System.out.println("GitHup Push");
 		System.out.println("  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");
+		System.out.println("Code pushed");
 
 	}
 
